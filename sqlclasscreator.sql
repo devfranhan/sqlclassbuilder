@@ -1,5 +1,5 @@
 
-declare @TableName sysname = 'DBM.DBO.FACEBOOK_MIDIA_OPTOUT'
+declare @TableName sysname = 'dbo.table'
 declare @Result varchar(max) = 'public class ' + @TableName + '
 {'
 
